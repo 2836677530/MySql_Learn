@@ -1,0 +1,17 @@
+[
+{
+  "directory": "E:/MySql_Learn/build/src/C++",
+  "command": "D:\\Qt\\Qt5.14.0Z\\Tools\\mingw730_64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/MySQL_learn.dir/includes_CXX.rsp -g -o CMakeFiles\\MySQL_learn.dir\\main.cpp.obj -c E:\\MySql_Learn\\src\\C++\\main.cpp",
+  "file": "E:/MySql_Learn/src/C++/main.cpp"
+},
+{
+  "directory": "E:/MySql_Learn/build/src/C++",
+  "command": "D:\\Qt\\Qt5.14.0Z\\Tools\\mingw730_64\\bin\\x86_64-w64-mingw32-g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\main.dir\\main_autogen\\mocs_compilation.cpp.obj -c E:\\MySql_Learn\\build\\src\\C++\\main_autogen\\mocs_compilation.cpp",
+  "file": "E:/MySql_Learn/build/src/C++/main_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "E:/MySql_Learn/build/src/C++",
+  "command": "D:\\Qt\\Qt5.14.0Z\\Tools\\mingw730_64\\bin\\x86_64-w64-mingw32-g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\main.dir\\main.cpp.obj -c E:\\MySql_Learn\\src\\C++\\main.cpp",
+  "file": "E:/MySql_Learn/src/C++/main.cpp"
+}
+]
