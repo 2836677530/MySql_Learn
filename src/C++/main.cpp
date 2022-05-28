@@ -15,7 +15,6 @@ int main(int argc, char *argv[])
         cout << "error:" << mysql_error(&mysql);
         return -1;
     }
-    cout << "hello" << endl;
     mysql_close(&mysql);
     return 0;
 }
