@@ -4,7 +4,7 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/",
-                "D:\\Program Files (x86)\\mysql-8.0.28-winx64\\include"
+                "C:\\Program Files\\MySQL\\MySQL Server 8.0\\include"
             ],
             "defines": [
                 "_DEBUG",

@@ -11,11 +11,11 @@
                 "-o",
                 "${workspaceFolder}\\bin\\${fileBasenameNoExtension}.exe",
                 "-I",
-                "D:\\Program Files (x86)\\mysql-8.0.28-winx64\\include",
+                "C:\\Program Files\\MySQL\\MySQL Server 8.0\\include",
                 "-L",
-                "D:\\Program Files (x86)\\mysql-8.0.28-winx64\\lib",
-                "D:\\Program Files (x86)\\mysql-8.0.28-winx64\\lib\\libmysql.lib",
-                "D:\\Program Files (x86)\\mysql-8.0.28-winx64\\lib\\libmysql.dll"
+                "C:\\Program Files\\MySQL\\MySQL Server 8.0\\lib",
+                "C:\\Program Files\\MySQL\\MySQL Server 8.0\\lib\\libmysql.lib",
+                "C:\\Program Files\\MySQL\\MySQL Server 8.0\\lib\\libmysql.dll"
             ],
             "options": {
                 "cwd": "${fileDirname}"
